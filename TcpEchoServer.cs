@@ -1,6 +1,3 @@
-// This code is adapted from a sample found at the URL 
-// "http://blogs.msdn.com/b/jmanning/archive/2004/12/19/325699.aspx"
-
 using System;
 using System.Net;
 using System.Net.Sockets;
